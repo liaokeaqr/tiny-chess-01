@@ -1,2 +1,3 @@
 # tiny-chess-01
-Tiny chess engine entry for make.fun tiny-chess-01 — strongest chess engine in 4 KB of Python
+
+A 4,096-byte Python chess engine for make.fun tiny-chess-01.
